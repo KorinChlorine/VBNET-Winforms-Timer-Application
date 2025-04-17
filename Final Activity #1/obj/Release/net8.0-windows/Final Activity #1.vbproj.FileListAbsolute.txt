@@ -1,0 +1,16 @@
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\bin\Release\net8.0-windows\Final Activity #1.exe
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\bin\Release\net8.0-windows\Final Activity #1.deps.json
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\bin\Release\net8.0-windows\Final Activity #1.runtimeconfig.json
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\bin\Release\net8.0-windows\Final Activity #1.dll
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\bin\Release\net8.0-windows\Final Activity #1.pdb
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final_Activity__1.Form1.resources
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.vbproj.GenerateResource.cache
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.AssemblyInfoInputs.cache
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.AssemblyInfo.vb
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.vbproj.CoreCompileInputs.cache
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.dll
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\refint\Final Activity #1.dll
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.pdb
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\Final Activity #1.genruntimeconfig.cache
+E:\Visual Studio Save Files\Final Activity #1\Final Activity #1\obj\Release\net8.0-windows\ref\Final Activity #1.dll

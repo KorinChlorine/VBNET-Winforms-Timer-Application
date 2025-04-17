@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio Save Files\\Final Activity #1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|e:\\visual studio save files\\final activity #1\\final activity #1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|solutionrelative:final activity #1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|e:\\visual studio save files\\final activity #1\\final activity #1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|solutionrelative:final activity #1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|e:\\visual studio save files\\final activity #1\\final activity #1\\final activity #1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|solutionrelative:final activity #1\\final activity #1.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|e:\\visual studio save files\\final activity #1\\final activity #1\\my project\\resources.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|solutionrelative:final activity #1\\my project\\resources.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|e:\\visual studio save files\\final activity #1\\final activity #1\\final activity #1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D435F9DE-925B-4C0C-8AAB-8F096B931B56}|Final Activity #1\\Final Activity #1.vbproj|solutionrelative:final activity #1\\final activity #1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.Designer.vb",
+              "DocumentMoniker": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\My Project\\Resources.Designer.vb",
+              "RelativeDocumentMoniker": "Final Activity #1\\My Project\\Resources.Designer.vb",
+              "ToolTip": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\My Project\\Resources.Designer.vb",
+              "RelativeToolTip": "Final Activity #1\\My Project\\Resources.Designer.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwLUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-31T06:35:53.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Final Activity #1.vbproj",
+              "DocumentMoniker": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Final Activity #1.vbproj",
+              "RelativeDocumentMoniker": "Final Activity #1\\Final Activity #1.vbproj",
+              "ToolTip": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Final Activity #1.vbproj",
+              "RelativeToolTip": "Final Activity #1\\Final Activity #1.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-03-31T06:35:06.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Form1.vb",
+              "RelativeDocumentMoniker": "Final Activity #1\\Form1.vb",
+              "ToolTip": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Form1.vb",
+              "RelativeToolTip": "Final Activity #1\\Form1.vb",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-30T13:08:26.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Final Activity #1",
+              "DocumentMoniker": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Final Activity #1.vbproj",
+              "RelativeDocumentMoniker": "Final Activity #1\\Final Activity #1.vbproj",
+              "ToolTip": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Final Activity #1.vbproj",
+              "RelativeToolTip": "Final Activity #1\\Final Activity #1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-03-31T09:57:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Form1.vb",
+              "RelativeDocumentMoniker": "Final Activity #1\\Form1.vb",
+              "ToolTip": "E:\\Visual Studio Save Files\\Final Activity #1\\Final Activity #1\\Form1.vb [Design]",
+              "RelativeToolTip": "Final Activity #1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-03-30T12:49:11.786Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
